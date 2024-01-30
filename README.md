@@ -1,3 +1,5 @@
+Here's the link to the demo video: https://share.icloud.com/photos/087Orfj0ewS7tkHo5mjE8ruKw <------------------------------------
+
 # ICE 2: Half-Adder
 
 Code for [ECE 281 ICE 2: Half-Adder](https://usafa-ece.github.io/ece281-book/ICE/ICE2.html)
